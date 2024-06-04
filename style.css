@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: lightblue ;
+}
+.timer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 15px solid rgb(154, 155, 155);
+    background-color: #14667E;
+    color: lightgreen;
+    border-radius: 70px;
+    width: 70%;
+    height: 55vh;
+    margin: 0 auto;
+    margin-top: 180px;
+    font-size: 102px;
+}
